@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.historyStyle {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+img {
+  height: 40px;
+}

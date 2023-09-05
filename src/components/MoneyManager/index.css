@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.formDiv {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: start; */
+  align-items: flex-start;
+}
+
+.historyDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.bottomDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.his {
+  width: 50vw;
+}
